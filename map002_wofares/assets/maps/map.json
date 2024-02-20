@@ -27,12 +27,6 @@
          "id":1,
          "name":"Static Map",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"BackgroundImage",
-                 "type":"file",
-                 "value":"..\/images\/dark_background.png"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":30,
@@ -57,6 +51,12 @@
                  "y":358.10876463508
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"background",
+                 "type":"file",
+                 "value":"..\/images\/dark_background.png"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
