@@ -2,7 +2,13 @@
   "animations": {
     "player_walk": "animations/player_walk.json"
   },
-  "sound_effects": {},
+  "sound_effects": {
+    "explosion": [
+      "sound_effects/explosion1.wav",
+      "sound_effects/explosion2.wav",
+      "sound_effects/explosion3.wav"
+    ]
+  },
   "music": {
     "background_music": "music/b-metal-improvisation.wav"
   },
