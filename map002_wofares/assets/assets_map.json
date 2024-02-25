@@ -2,13 +2,9 @@
   "animations": {
     "player_walk": "animations/player_walk.json"
   },
-  "sounds": {
-    "background_music": "path/to/sounds/background_music.ogg",
-    "explosion": "path/to/sounds/explosion.wav"
-  },
-  "textures": {
-    "player_texture": "path/to/textures/player.png",
-    "enemy_texture": "path/to/textures/enemy.png"
+  "sound_effects": {},
+  "music": {
+    "background_music": "music/b-metal-improvisation.wav"
   },
   "maps": {
     "level1": "maps/level1.json"
