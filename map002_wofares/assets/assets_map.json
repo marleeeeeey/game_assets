@@ -11,7 +11,6 @@
     "enemy_texture": "path/to/textures/enemy.png"
   },
   "maps": {
-    "level1": "path/to/maps/level1.json",
-    "level2": "path/to/maps/level2.json"
+    "level1": "maps/level1.json"
   }
 }
