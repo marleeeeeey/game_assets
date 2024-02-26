@@ -1,12 +1,24 @@
 {
   "animations": {
-    "player_walk": "animations/player_walk.json"
+    "player_walk": "animations/zombie_walk_004_040x060.json"
   },
   "sound_effects": {
     "explosion": [
       "sound_effects/explosion1.wav",
       "sound_effects/explosion2.wav",
-      "sound_effects/explosion3.wav"
+      "sound_effects/explosion3.wav",
+      "sound_effects/explosion4.wav",
+      "sound_effects/explosion5.wav"
+    ],
+    "evil_laugh": [
+      "sound_effects/evil_laugh1.wav",
+      "sound_effects/evil_laugh2.wav",
+      "sound_effects/evil_laugh3.wav",
+      "sound_effects/evil_laugh4.wav",
+      "sound_effects/evil_laugh5.wav",
+      "sound_effects/evil_laugh6.wav",
+      "sound_effects/evil_laugh7.wav",
+      "sound_effects/evil_laugh8.wav"
     ]
   },
   "music": {
