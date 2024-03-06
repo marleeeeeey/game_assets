@@ -25,6 +25,6 @@
     "background_music": "music/b-metal-improvisation.wav"
   },
   "maps": {
-    "level1": "maps/level1.json"
+    "level1": "maps/map.json"
   }
 }
