@@ -1,0 +1,23 @@
+{
+  "animations": {
+    "player_walk": "assets/animations/zombie_walk_004_040x060.json"
+  },
+  "sound_effects": {
+    "explosion": [
+      "assets/sound_effects/explosion*.wav"
+    ],
+    "evil_laugh": [
+      "assets/sound_effects/evil_laugh*.wav"
+    ]
+  },
+  "music": {
+    "background_music": "assets/music/b-metal-improvisation.wav"
+  },
+  "maps": [
+    {
+      "name": "level1",
+      "tiledMapPath": "assets/maps/map.json",
+      "backgroundPath": "assets/backgrounds/dark_background.png"
+    }
+  ]
+}
