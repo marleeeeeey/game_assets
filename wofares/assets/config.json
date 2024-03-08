@@ -25,7 +25,6 @@
   "gameOptions": {
     "levelOptions": {
       "tileSplitFactor": 2,
-      "preventCreationInvisibleTiles": true,
       "colisionDisableProbability": 1
     },
     "physicsOptions": {
@@ -43,6 +42,12 @@
       "masterVolume": 0,
       "playBackgroundMusicOnStart": false,
       "randomSoundEventInterval": 10
+    }
+  },
+  "weaponControlSystem": {
+    "cellSizeForMicroDistruction": 2,
+    "debug": {
+      "useColoredMicroTiles": false
     }
   }
 }
