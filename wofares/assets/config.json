@@ -5,21 +5,10 @@
     },
     "sound_effects": {
       "explosion": [
-        "assets/sound_effects/explosion1.wav",
-        "assets/sound_effects/explosion2.wav",
-        "assets/sound_effects/explosion3.wav",
-        "assets/sound_effects/explosion4.wav",
-        "assets/sound_effects/explosion5.wav"
+        "assets/sound_effects/explosion*.wav"
       ],
       "evil_laugh": [
-        "assets/sound_effects/evil_laugh1.wav",
-        "assets/sound_effects/evil_laugh2.wav",
-        "assets/sound_effects/evil_laugh3.wav",
-        "assets/sound_effects/evil_laugh4.wav",
-        "assets/sound_effects/evil_laugh5.wav",
-        "assets/sound_effects/evil_laugh6.wav",
-        "assets/sound_effects/evil_laugh7.wav",
-        "assets/sound_effects/evil_laugh8.wav"
+        "assets/sound_effects/evil_laugh*.wav"
       ]
     },
     "music": {
