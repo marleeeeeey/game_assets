@@ -1,6 +1,6 @@
 {
   "animations": {
-    "player_walk": "assets/animations/zombie_walk_004_040x060.json"
+    "player_walk": "assets/animations/CharCubeTall.json"
   },
   "sound_effects": {
     "explosion": [
